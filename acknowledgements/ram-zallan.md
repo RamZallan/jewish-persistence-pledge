@@ -1,5 +1,5 @@
 ---
 name: Ram Zallan
-description: Created the jewishpersistenc.com website
+description: Created the jewishpersistence.com website
 link: https://ramzallan.me
 ---
