@@ -78,5 +78,4 @@ collections: # A list of collections the CMS should be able to edit
     create: true
     identifier_field: title
     fields:
-      - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}

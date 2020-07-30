@@ -2,8 +2,7 @@
 layout: page
 title: Acknowledgements
 meta_description: |
-  This sets the meta description in the head of the page. You can watch the 
-  output in the browser or in the generated file _site/about.html.
+    Acknowledgements - Jewish Persistence Pledge
 permalink: /acknowledgements
 section: acknowledgements
 intro_paragraph: |
@@ -11,6 +10,6 @@ intro_paragraph: |
 ---
 
 {% for credit in site.acknowledgements %}
-### [{{ credit.name }}]({{credit.link}})
+### [{{ credit.name }}]({{credit.link}}){:target="_blank"}
 {{ credit.description }}
 {% endfor %}
