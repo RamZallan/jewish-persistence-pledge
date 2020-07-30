@@ -31,7 +31,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Intro Paragraph", name: "intro_paragraph", widget: "markdown", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - {label: "Categories", name: "categories", widget: "string", required: false}
-    # PAGES
+  # PAGES
   - name: "page"
     label: "Page"
     folder: "pages"
@@ -46,3 +46,37 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Section", name: "section", widget: "hidden", default: "{{name}}"}
       - {label: "Intro Paragraph", name: "intro_paragraph", widget: "markdown", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
+  # ACKNOWLEDGEMENTS
+  - name: "acknowledgements"
+    label: "Acknowledgement"
+    folder: "acknowledgements"
+    sort: "name:asc"
+    slug: "{{slug}}"
+    create: true
+    identifier_field: name
+    fields:
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Link", name: "link", widget: "string", required: false}
+  # RESOURCES
+  - name: "resource"
+    label: "Resource"
+    folder: "resources"
+    sort: "title:asc"
+    slug: "{{slug}}"
+    create: true
+    identifier_field: title
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Link", name: "link", widget: "string", required: false}
+  # PLEDGE SECTIONS
+  - name: "pledgesection"
+    label: "Pledge Section"
+    folder: "pledgesections"
+    slug: "{{slug}}"
+    create: true
+    identifier_field: title
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
