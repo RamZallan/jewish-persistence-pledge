@@ -9,11 +9,11 @@ $hairline-color: rgb(230,230,230);
 $selection-bg-color: rgba(255,255,100,0.5);
 
 // typographic defaults
-$base-font: system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Droid Sans,Helvetica Neue;
+$base-font: 'Alegreya', serif;
 $code-font: Courier, monospace;
 $base-font-size: 62.5%;
-$base-font-weight: 300;
-$bold-font-weight: 600;
+$base-font-weight: 400;
+$bold-font-weight: 700;
 $base-line-height: 1.5;
 
 // viewport breakpoints

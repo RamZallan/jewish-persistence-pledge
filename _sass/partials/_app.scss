@@ -12,7 +12,7 @@ body {
   grid-template-rows: auto 1fr auto;
   grid-template-columns:
     [full-start] minmax(1rem, 1fr)
-    [main-start] minmax(0, 52rem) [main-end]
+    [main-start] minmax(0, 38rem) [main-end]
     minmax(1rem, 1fr) [full-end];
 }
 
@@ -99,6 +99,8 @@ main {
   display: grid;
   padding-top: 8rem;
   padding-bottom: 8rem;
+  padding-left: 0px;
+  padding-right: 0px;
   @media screen and (min-width: $screen-md-min) {
     align-content: start;
   }
@@ -173,7 +175,7 @@ footer {
   display: grid;
   grid-template-columns:
     [full-start] minmax(1rem, 1fr)
-    [main-start] minmax(0, 50rem) [main-end]
+    [main-start] minmax(0, 38rem) [main-end]
     minmax(1rem, 1fr) [full-end];
   background-color: $grey-bg-color;
   > small {

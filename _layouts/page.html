@@ -6,4 +6,17 @@ layout: default
 
 {% include page-intro.html %}
 
+{% if page.item %}
+    {% for item in page.item %}
+        <h3>
+            <a href="{{item.link}}" target="_blank">
+                {{item.title}}
+            </a>
+        </h3>
+        <p>
+            {{item.body}}
+        </p>
+    {% endfor %}
+{% endif %}
+
 {{ content }}
