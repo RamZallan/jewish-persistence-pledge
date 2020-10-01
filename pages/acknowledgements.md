@@ -26,9 +26,11 @@ intro_paragraph: >-
 
   ***CONTRIBUTORS: Do you want to be thanked by name? Would you prefer to remain anonymous? If we succeed in raising funds to modestly compensate each contributor, how should we reach you? Please fill out [this form](https://forms.gle/Ytz59y7JacDTiYFS8) to let us know.***
 item:
-  - title: Ram Zallan
-    link: https://ramzallan.me
-    body: Built the website for jewishpersistence.com
+  - title: First Person
+    link: https://jewishpersistance.com
+    body: Ut porta, dolor ut ultrices viverra, est augue porta felis, auctor
+      malesuada quam est eget erat. Quisque porta purus nec orci rhoncus, a
+      varius est finibus. Sed faucibus sit amet est a pellentesque.
   - title: Second Person
     link: https://jewishpersistence.com
     body: Pellentesque hendrerit orci euismod, dignissim augue nec, suscipit nibh.
