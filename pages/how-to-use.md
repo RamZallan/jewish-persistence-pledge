@@ -76,8 +76,6 @@ item:
       Young people often feel more pressure than adults do to show off socially-approved opinions in front of their peers. Consider giving young people who are examining the pledge for the first time some time to reflect quietly to themselves, as well to discuss their reactions aloud. Encourage them to use their page in whatever way helps them to think - whether moving their bodies as they read/listen, making notes in the open spaces, circling parts that matter most to them, or just doodling.
 
 
-      \
-
       You might find these [open-source curricular resources](https://drive.google.com/drive/folders/1LGslwJwhXvpVnDgw0uC-n794l6EGzpuH?usp=sharing) useful. They have been created by educators to support learning about Black Lives Matter from early childhood settings through the teen years. We encourage combining these materials with Jewish teachings as offerings to your students and families.
 
 
