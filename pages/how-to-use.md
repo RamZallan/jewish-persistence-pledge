@@ -33,10 +33,13 @@ item:
       6. Stick together. Support each other to get more involved in local BLM work and related projects. Encourage each other to build and deepen relationships with non-Jews in this work. When concerns about antisemitism arise in your community or in this movement, help each other to think through the best possible ways to respond. If you notice that local Jewish communal responses to these concerns seem ill-conceived, help each other to play leading roles in redirecting the community toward constructive action.
 
       7. Choose more conversation partners and repeat!
-  - title: At Synagogue
-    link: (Adaptable for use in other Jewish organizations)
+  - title: "At Synagogue "
+    link: ""
     body: >-
-      
+      *(Adaptable for use in other Jewish organizations)*
+
+
+
 
       Many synagogues have existing structures which are well-suited to a discussion about the Jewish Persistence pledge. Any of these could offer great opportunities:
 
