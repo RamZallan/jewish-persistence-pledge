@@ -33,11 +33,6 @@ netlifycms: true
 # set to 'true' to enable Google Analytics tracking code in production builds
 analytics: false
 
-# Compress CSS
-sass:
-  style: compressed
-  sass_dir: _sass
-
 # Compress HTML (in liquid via layouts/compress.html)
 compress_html:
   clippings: all
