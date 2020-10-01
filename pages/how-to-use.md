@@ -39,8 +39,6 @@ item:
       *(Adaptable for use in other Jewish organizations)*
 
 
-
-
       Many synagogues have existing structures which are well-suited to a discussion about the Jewish Persistence pledge. Any of these could offer great opportunities:
 
 
@@ -63,7 +61,8 @@ item:
       Just as you would thoughtfully pick your partner for a one-on-one pledge conversation, think intentionally about who in your synagogue would be a good partner for this work. Who shares at least some of your commitment to fighting anti-Black racism? Think about building these conversations from the inside out -- for instance, start first among folks in your congregation who are most likely to support the pledge. When that group has had a successful experience with the pledge, the participants may be interested in helping to plan a larger conversation. You might ask each of these original participants, if they are comfortable, to volunteer as one of the facilitators for the small breakout group conversations in the next round of pledge discussion.
 
 
-      In any synagogue, there will be a range of exposure to anti-racist educational concepts, and a range of perspectives about the Movement for Black Lives. Encourage respectful disagreement and debate, but consider setting some ground rules at the beginning to ensure a productive discussion.\
+      In any synagogue, there will be a range of exposure to anti-racist educational concepts, and a range of perspectives about the Movement for Black Lives. Encourage respectful disagreement and debate, but consider setting some ground rules at the beginning to ensure a productive discussion.
+
 
       \
 
