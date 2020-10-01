@@ -91,7 +91,7 @@ item:
       liberation of all Jews and all people lies on that path."
   - body: The struggle against antisemitism takes deep relationships. We will build
       them.
-  - body: This is a promise to ourselves.
+  - body: "**This is a promise to ourselves.**"
   - body: >-
       *Signature area here*
 
