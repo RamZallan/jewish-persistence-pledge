@@ -49,22 +49,17 @@ item:
       * adult education workshops
 
 
-      Think about leaders in your congregation who might be on board with helping these conversations to happen. Would your rabbi, cantor, congregation president or educator find the pledge useful and interesting? Supportive leadership makes a big difference in building interest among congregants.\
+      Think about leaders in your congregation who might be on board with helping these conversations to happen. Would your rabbi, cantor, congregation president or educator find the pledge useful and interesting? Supportive leadership makes a big difference in building interest among congregants.
 
-      \
 
       We suggest arranging an event with a small group within your synagogue, rather than a synagogue-wide conversation. From there, you can break the gathering down into more personal conversations. During the pandemic, while most synagogues are not meeting in person, many are continuing to hold online discussion groups. When using Zoom for a group event, the breakout room feature can be used to assign one-on-one partners to each other for more in-depth conversation in pairs.
 
-
-      \
 
       Just as you would thoughtfully pick your partner for a one-on-one pledge conversation, think intentionally about who in your synagogue would be a good partner for this work. Who shares at least some of your commitment to fighting anti-Black racism? Think about building these conversations from the inside out -- for instance, start first among folks in your congregation who are most likely to support the pledge. When that group has had a successful experience with the pledge, the participants may be interested in helping to plan a larger conversation. You might ask each of these original participants, if they are comfortable, to volunteer as one of the facilitators for the small breakout group conversations in the next round of pledge discussion.
 
 
       In any synagogue, there will be a range of exposure to anti-racist educational concepts, and a range of perspectives about the Movement for Black Lives. Encourage respectful disagreement and debate, but consider setting some ground rules at the beginning to ensure a productive discussion.
 
-
-      \
 
       Having this conversation in the context of a synagogue community gives us an opportunity to incorporate Jewish texts that speak to a commitment to anti-racism into the discussion.
   - title: With Jewish Youth
