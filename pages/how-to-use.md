@@ -5,19 +5,7 @@ meta_description: |
   How to Use - Jewish Persistence Pledge
 permalink: /how-to-use
 section: how-to-use
-intro_paragraph: >-
-  Our Jewish tradition teaches us that through questioning, we deepen our
-  understanding (especially when we do it
-  [together](https://www.myjewishlearning.com/article/havruta-learning-in-pairs/)!).
-  This pledge has been designed to help you have deep conversations with other
-  Jews - remembering that even disagreement is sacred when we do it in search of
-  greater truth. We’ve designed it to look like a page of Talmud, which for many
-  \[link about non-rabbinic Jews] Jewish communities is a prime example of this
-  value, as a reminder of how healthy discussion and curiosity help us stay
-  connected to each other.
-
-
-  Our tradition also teaches us that learning is the responsibility of everyone in the community. But when it comes to thinking about anti-Black racism, sometimes our communities expect Black Jews to bear all the responsibility for educating those of us who are not Black. To counteract that, we would like to particularly encourage non-Black Jews to use this pledge, by sitting down for conversation with other non-Black Jews. (The following suggestions are written with that focus on non-Black Jews.)
+intro_paragraph: ""
 item:
   - title: One-on-one
     link: ""
@@ -129,3 +117,6 @@ item:
 
       * When you imagine the possibilities - what a world free of white supremacy and antisemitism would be like - what do you picture? How does it feel to imagine being there? Use whatever senses you have access to to picture being in this world. What colors and textures does this world have? What does it sound like? How do you imagine your body feeling?
 ---
+Our Jewish tradition teaches us that through questioning, we deepen our understanding (especially when we do it [together](https://www.myjewishlearning.com/article/havruta-learning-in-pairs/)!). This pledge has been designed to help you have deep conversations with other Jews - remembering that even disagreement is sacred when we do it in search of greater truth. We’ve designed it to look like a page of Talmud, which for many \[link about non-rabbinic Jews] Jewish communities is a prime example of this value, as a reminder of how healthy discussion and curiosity help us stay connected to each other.
+
+Our tradition also teaches us that learning is the responsibility of everyone in the community. But when it comes to thinking about anti-Black racism, sometimes our communities expect Black Jews to bear all the responsibility for educating those of us who are not Black. To counteract that, **we would like to particularly encourage non-Black Jews** to use this pledge, by **sitting down for conversation with other non-Black Jews.** (The following suggestions are written with that focus on non-Black Jews.)
