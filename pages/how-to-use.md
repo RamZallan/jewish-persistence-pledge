@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: How to Use
 meta_description: |
   How to Use - Jewish Persistence Pledge
