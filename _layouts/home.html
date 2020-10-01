@@ -17,6 +17,9 @@ layout: default
 {% if page.item %}
     {% for item in page.item %}
         <section>
+            {% if item.title %}
+                <h3>{{ item.title }}</h3>
+            {% endif %}
             <p>
                 {{item.body | markdownify}}
             </p>
