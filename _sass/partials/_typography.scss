@@ -103,3 +103,8 @@ header > h1 {
 section p {
     text-align: justify
 }
+
+#admin-link {
+  color: lighten($link-color, 20%);
+  border-color: lighten($link-color, 20%);
+}
