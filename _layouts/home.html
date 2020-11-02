@@ -1,31 +1,12 @@
 ---
-layout: default
+layout: default2
+construction: true
 ---
 
-<h2>{{ page.title }}</h2>
-
-  {% include page-intro.html %}
-
-  {% for section in site.pledgesections %}
-    <p>
-        {{ section }}
-    </p>
-  {% endfor %}
-
-  {{ content }}
-
-{% if page.item %}
-    {% for item in page.item %}
-        <section>
-            {% if item.title %}
-                <h3>{{ item.title }}</h3>
-            {% endif %}
-            <p>
-                {{item.body | markdownify}}
-            </p>
-        </section>
-    {% endfor %}
-{% endif %}
+Site under construction
+<small style="margin-top: 100px;">
+    <a href="/admin/">Contributor sign-on</a>
+</small>
 
 <script>
   if (window.netlifyIdentity) {

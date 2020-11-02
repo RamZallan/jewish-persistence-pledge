@@ -1,5 +1,5 @@
 ---
-layout: compress # change back to "home" when not under construction
+layout: home # change back to "home" when not under construction
 title: Jewish Persistence Pledge
 permalink: /
 section: home

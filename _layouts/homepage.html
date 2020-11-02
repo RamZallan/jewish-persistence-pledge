@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<h2>{{ page.title }}</h2>
+
+  {% include page-intro.html %}
+
+  {% for section in site.pledgesections %}
+    <p>
+        {{ section }}
+    </p>
+  {% endfor %}
+
+  {{ content }}
+
+{% if page.item %}
+    {% for item in page.item %}
+        <section>
+            {% if item.title %}
+                <h3>{{ item.title }}</h3>
+            {% endif %}
+            <p>
+                {{item.body | markdownify}}
+            </p>
+        </section>
+    {% endfor %}
+{% endif %}
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
