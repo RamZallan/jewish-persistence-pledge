@@ -1,16 +1,16 @@
 # specify main menu items here
 
-- text: Home
+- text: The Pledge
   url: /homepage
-- text: About
-  url: /about
-- text: Acknowledgements
-  url: /acknowledgements
 - text: How to Use
   url: /how-to-use
+- text: Acknowledgements
+  url: /acknowledgements
+- text: FAQs
+  url: /faqs
 - text: Resources
   url: /resources
-- text: Contact
-  url: /contact
+#- text: Contact
+#  url: /contact
 #- text: Blog
 #  url: /blog
