@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Frequently Asked Questions
-meta_description: About - Jewish Persistence Pledge
+meta_description: FAQs - Jewish Persistence Pledge
 permalink: /about
 section: about
 intro_paragraph: about the Jewish Persistence pledge
