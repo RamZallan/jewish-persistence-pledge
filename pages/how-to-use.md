@@ -21,14 +21,14 @@ item:
       when challenges come up around antisemitism, and support each other to
       stand up in constructive ways.
 
-      2. Decide whether it makes more sense to get together in person or online, keeping in mind health and safety. Arrange for each of you to have your own interactive copy of the pledge, so you can each note your own thoughts on it. Here’s a version you can print out, or one which can be filled in onscreen. \[add links later]
+      2. Decide whether it makes more sense to get together in person or online, keeping in mind health and safety. Arrange for each of you to have your own interactive copy of the pledge, so you can each note your own thoughts on it. Here’s a version you can print out, or one which can be filled in onscreen. \[add links later]
 
-      3. Come ready to listen. Use any prompts you like below, or just talk. When you encounter differences, remember that the goal is not to defeat each other’s arguments, but to build toward being each other’s partners. Be open to being surprised by the insights your partner has, even if there are perspectives you don’t share. Share from your own personal experience.
+      3. Come ready to listen. [Use any prompts](https://www.aprilrosenblum.com/7623064058239) you like below, or just talk. When you encounter differences, remember that the goal is not to defeat each other’s arguments, but to build toward being each other’s partners. Be open to being surprised by the insights your partner has, even if there are perspectives you don’t share. Share from your own personal experience.
 
-         If you are someone who has done a lot of learning about anti-racism, and you are meeting with a partner who has done less, resist falling into any habits of talking down to them and try to set aside anxieties or preoccupations you might feel about correcting them. Especially listen to experiences your partner may have had with antisemitism, or incidents they suspected were antisemitism. When our concerns and painful experiences are taken seriously, it becomes easier to grow and experiment with new ways of doing things.
-      4. Debate and disagreement is welcome - with each other, and with the text. Use your interactive copy of the pledge to make notes about parts that move you as well as parts you don’t connect with. Know that **the goal of this conversation is not to get your partner to sign.** It’s to use the question, “Could you see yourself signing this?” as an entry point into the deeper conversations our community needs to have about antisemitism, anti-Blackness, and our future.
+         If you are a white Jew who has done a lot of learning about anti-racism, and you are meeting with a partner who has done less, resist falling into any habits of talking down to them and try to set aside anxieties or preoccupations you might feel about correcting them. Especially listen to experiences your partner may have had with antisemitism, or incidents they suspected were antisemitism. When our concerns and painful experiences are taken seriously, it becomes easier to grow and experiment with new ways of doing things. 
+      4. Debate and disagreement is welcome - with each other, and with the text. Use your interactive copy of the pledge to make notes about parts that move you as well as parts you don’t connect with. Know that the goal of this conversation is not to get your partner to sign. It’s to use the question, “Could you see yourself signing this?” as an entry point into the deeper conversations our community needs to have about antisemitism, anti-Blackness, and our future.
 
-      5. If your partner does sign on, follow up to offer them support. For non-Black Jews, signing the pledge includes committing to new conversations with others (see “We will bring our people with us.”). Reach out to your partner to ask if they’ve had a chance to schedule a conversation of their own. If not, ask them if anything is holding them back or makes it feel challenging. Would they like to talk through their hesitations with you? Would it help them to role-play, or to think aloud with you about how to approach the people they’re thinking of?
+      5. If your partner does sign on, follow up to offer them support. For non-Black Jews, signing the pledge includes committing to new conversations with others (see “We will bring our people with us.”). Reach out to your partner to ask if they’ve had a chance to schedule a conversation of their own. If not, ask them if anything is holding them back or makes it feel challenging. Would they like to talk through their hesitations with you? Would it help them to role-play, or to think aloud with you about how to approach the people they’re thinking of
 
       6. Stick together. Support each other to get more involved in local BLM work and related projects. Encourage each other to build and deepen relationships with non-Jews in this work. When concerns about antisemitism arise in your community or in this movement, help each other to think through the best possible ways to respond. If you notice that local Jewish communal responses to these concerns seem ill-conceived, help each other to play leading roles in redirecting the community toward constructive action.
 
@@ -36,7 +36,7 @@ item:
   - title: "At Synagogue "
     link: ""
     body: >-
-      *(Adaptable for use in other Jewish organizations)*
+      *(*adaptable for use in other Jewish organizations)*
 
 
       Many synagogues have existing structures which are well-suited to a discussion about the Jewish Persistence pledge. Any of these could offer great opportunities:
@@ -76,10 +76,7 @@ item:
       Young people often feel more pressure than adults do to show off socially-approved opinions in front of their peers. Consider giving young people who are examining the pledge for the first time some time to reflect quietly to themselves, as well to discuss their reactions aloud. Encourage them to use their page in whatever way helps them to think - whether moving their bodies as they read/listen, making notes in the open spaces, circling parts that matter most to them, or just doodling.
 
 
-      You might find these [open-source curricular resources](https://drive.google.com/drive/folders/1LGslwJwhXvpVnDgw0uC-n794l6EGzpuH?usp=sharing) useful. They have been created by educators to support learning about Black Lives Matter from early childhood settings through the teen years. We encourage combining these materials with Jewish teachings as offerings to your students and families.
-
-
-      ***CONTRIBUTORS: Feel free to suggest adding or removing any of these questions, as well as any improvements you’d like to see. Note: While we are specifically asking non-Black Jews specifically to take on these conversations, some events may take place in multiracial congregational or youth settings which include Black Jews, so we do want to arrive at prompts that speak to a wide variety of Jews.***
+      You might find these [open-source curricular resources](https://drive.google.com/drive/folders/1LGslwJwhXvpVnDgw0uC-n794l6EGzpuH?usp=sharing) useful. They have been created by educators to support learning about Black Lives Matter from early childhood settings through the teen years. We encourage combining these materials with Jewish teachings as offerings to your students and families.
 
 
       **Consider these prompts,** or use your own.
@@ -112,6 +109,18 @@ item:
 
       * When you imagine the possibilities - what a world free of white supremacy and antisemitism would be like - what do you picture? How does it feel to imagine being there? Use whatever senses you have access to to picture being in this world. What colors and textures does this world have? What does it sound like? How do you imagine your body feeling?
 ---
-Our Jewish tradition teaches us that through questioning, we deepen our understanding (especially when we do it [together](https://www.myjewishlearning.com/article/havruta-learning-in-pairs/)!). This pledge has been designed to help you have deep conversations with other Jews - remembering that even disagreement is sacred when we do it in search of greater truth. We’ve designed it to look like a page of Talmud, which for many \[link about non-rabbinic Jews] Jewish communities is a prime example of this value, as a reminder of how healthy discussion and curiosity help us stay connected to each other.
+Our Jewish tradition teaches us that through questioning, we deepen our understanding (especially when we do it [together](https://www.myjewishlearning.com/article/havruta-learning-in-pairs/)!). This pledge has been designed to help you have deep conversations with other Jews - remembering that even disagreement is sacred when we do it in search of greater truth. We’ve designed it to look like a page of Talmud, which for many \[link about non-rabbinic Jews] Jewish communities is a prime example of this value, as a reminder of how healthy discussion and curiosity help us stay connected to each other.
 
-Our tradition also teaches us that learning is the responsibility of everyone in the community. But when it comes to thinking about anti-Black racism, sometimes our communities expect Black Jews to bear all the responsibility for educating those of us who are not Black. To counteract that, **we would like to particularly encourage non-Black Jews** to use this pledge, by **sitting down for conversation with other non-Black Jews.** (The following suggestions are written with that focus on non-Black Jews.)
+ 
+
+Our tradition also teaches us that learning is the responsibility of everyone in the community. But when it comes to thinking about anti-Black racism, sometimes our communities expect Black Jews to bear all the responsibility for educating those of us who are not Black. To counteract that, **we would like to particularly encourage non-Black Jews to use this pledge**, by sitting down for conversation **with other non-Black Jews.** (The following suggestions are written with that focus on non-Black Jews.)
+
+​
+
+One-on-One, At Synagogue & With Jewish Youth
+
+[Discussion Questions](https://www.aprilrosenblum.com/7623064058239)
+
+Link to printable pledge
+
+Link to fillable pledge PDF
