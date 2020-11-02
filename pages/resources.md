@@ -64,9 +64,8 @@ The current state of antisemitism in the US
 
 ​
 
-# [Taking Aim at Multiracial Democracy](https://www.politicalresearch.org/2019/10/22/taking-aim-multiracial-democracy) - Ben Lorber “We must understand the threat of White nationalist antisemitism animating today’s Right \[—]and we must interrupt this totalizing, conspiratorial antisemitic narrative with a bold, expansive vision of real, inclusive, feminist, multiracial democracy in which everyone can thrive."
+[Taking Aim at Multiracial Democracy](https://www.politicalresearch.org/2019/10/22/taking-aim-multiracial-democracy) - Ben Lorber “We must understand the threat of White nationalist antisemitism animating today’s Right \[—]and we must interrupt this totalizing, conspiratorial antisemitic narrative with a bold, expansive vision of real, inclusive, feminist, multiracial democracy in which everyone can thrive."
 
-\
 [In Trump's America, the Jewish High Holidays Mean Waiting for the Next Synagogue Attack](https://www.newsweek.com/antisemitism-usa-trump-white-nationalism-not-rashida-tlaib-ilhan-omar-1462396) - Sophie Ellman-Golan\
 “We have reason to be afraid: anti-Semitism is real and continues to rise in frequency and magnitude alike. Yet despite the insistence of Jewish institutions and high-profile centrist Jewish journalists that the threat facing American Jews is coming from "both sides," I had no anxiety about a campus BDS activist or Muslim congresswoman walking into my synagogue and opening fire. The attack I feared—the attacks that have already devastated our community and others'— is coming from white nationalists who have been emboldened and embraced by right-wing media and the Republican Party... \[I]n an era where truth loses value daily, facts have to matter. We have to know tweeting song lyrics is not the same as inciting a mass murder. We have to know if we are to fight for ourselves, our safety, our dignity—and that of our neighbors.” 
 
@@ -121,7 +120,7 @@ The current state of antisemitism in the US
 
 ​
 
-"Black-Jewish relations,"* past & present
+**"Black-Jewish relations,"* past & present**
 
 [600+ Jewish Organizations and Synagogues say: Black Lives Matter](https://medium.com/@jewishorgssayblacklivesmatter/majority-of-american-jews-in-full-page-new-york-times-ad-unequivocally-black-lives-matter-60ae44e7c305) - full-page New York Times ad on the anniversary of the March on Washington
 
@@ -139,16 +138,11 @@ The current state of antisemitism in the US
 
 “A poorly defined concept of 'Black antisemitism' not only risks promulgating racist stereotypes about African Americans—treating us as inherently violent, criminal, and irrational—but also obscures the specifics of the various ways antisemitism can manifest, making it harder for us to fight back. ...The violent ideology of the Jersey City shooters reflects centuries of history in which Black and Jewish communities have been divided and pitted against each other under a system that harms us all.”
 
-​
 
 \[More resources coming]
 
-​
 
-Do you know of a resource we should be including on this page? Would you like to tell us about a best practice you’ve adopted in your local organizing? [Tell us here.](https://forms.gle/CedPwzfmgPy8mboJ6) 
-
-​
+**Do you know of a resource we should be including on this page? Would you like to tell us about a best practice you’ve adopted in your local organizing? [Tell us here.](https://forms.gle/CedPwzfmgPy8mboJ6)**
 
 ​
-
 \*Note: Many resources which use the term “Jewish” or “Black-Jewish” erroneously treat “Black” and “Jewish” as separate categories.
