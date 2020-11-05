@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: homepage
 title: Jewish Persistence
 meta_description: "Jewish Persistence Pledge: A Promise to Ourselves"
 permalink: /homepage
